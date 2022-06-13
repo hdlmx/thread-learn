@@ -3,7 +3,7 @@
 >
 > Java 并发相关知识体系详解，包含理论基础，线程基础，synchronized，volatile，final关键字, JUC框架等内容。
 
-![img](https://pdai-1257820000.cos.ap-beijing.myqcloud.com/pdai.tech/public/_images/java/java-concurrent-overview-1.png)
+
 
 ## 相关文章
 
